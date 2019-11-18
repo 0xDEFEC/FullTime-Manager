@@ -1,2 +1,2 @@
 # FullTime Manager
-- Created for Full Time Hosting: https://fulltimehosting.net -
+< Created for Full Time Hosting: https://fulltimehosting.net >
