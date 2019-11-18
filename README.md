@@ -38,3 +38,4 @@ Some functions that can be found within the client are as follows:
     - Set Boot Order
     - Manipulate Mitigation
     - Manipulate rDNS Settings
+      ...and more!
