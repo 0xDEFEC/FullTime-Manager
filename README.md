@@ -1,5 +1,5 @@
 # FullTime Manager
-<img src="https://hostadvice.com/wp-content/uploads/2018/02/logo-8.png" width="350" height="250" align="middle"></img>
+<img src="https://hostadvice.com/wp-content/uploads/2018/02/logo-8.png" width="375" height="250"></img>
 < Created for Full Time Hosting: https://fulltimehosting.net >
 
 
