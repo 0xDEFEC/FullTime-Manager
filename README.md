@@ -24,7 +24,7 @@ Some functions that can be found within the client are as follows:
     - Set/Get Account Info
     - Get/Open/Reply/Close Ticket(s)
     - Get Invoices
-    - Get Promotoion Code Info
+    - Get Promotional Code Info
   - Server:
     - Get Server Info
     - Power/Restart/Crash/Renew Server
