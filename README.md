@@ -1,1 +1,1 @@
-# FullTime-Manager
+# FullTime Manager
