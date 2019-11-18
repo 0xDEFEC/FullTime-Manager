@@ -1,5 +1,5 @@
 # FullTime Manager
-![logo](https://cdn.fulltimehosting.net/logo3.png)
+<img src="https://cdn.fulltimehosting.net/logo3.png"></img>
 < Created for Full Time Hosting: https://fulltimehosting.net >
 
 
