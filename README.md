@@ -77,4 +77,4 @@ Quality Assurance Testers: none yet!
 
 Version: 1.0.0
 
-Notes: I'm colorblind, so if the GUI looks weird to you, well... ╭∩╮(⋋‿⋌)ᕗ
+Notes: I'm colorblind, so if the GUI looks weird to you, well... ¯\\_▒ – ﹏ – ▒_/¯
