@@ -44,6 +44,9 @@ Some functions that can be found within the client are as follows:
 
 # Screenshots
 <p align="center">
+  <img src="https://github.com/defec1iv3/FullTime-Manager/blob/master/Screenshots/ss4.PNG" width="400" height="250"></img>
+</p>
+<p align="center">
   <img src="https://github.com/defec1iv3/FullTime-Manager/blob/master/Screenshots/ss0.PNG" width="400" height="250"></img>
 </p>
 <p align="center">
@@ -54,7 +57,4 @@ Some functions that can be found within the client are as follows:
 </p>
 <p align="center">
   <img src="https://github.com/defec1iv3/FullTime-Manager/blob/master/Screenshots/ss3.PNG" width="400" height="250"></img>
-</p>
-<p align="center">
-  <img src="https://github.com/defec1iv3/FullTime-Manager/blob/master/Screenshots/ss4.PNG" width="400" height="250"></img>
 </p>
