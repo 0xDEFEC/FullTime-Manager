@@ -3,7 +3,7 @@
   <img src="https://hostadvice.com/wp-content/uploads/2018/02/logo-8.png" width="400" height="250"></img>
 </p>
 <p align="center">
-  < Created for Full Time Hosting at https://fulltimehosting.net >
+  < Created for Full Time Hosting and their clients at https://fulltimehosting.net >
 </p>
 
 <br/>
