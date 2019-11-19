@@ -71,7 +71,7 @@ Image of the client's Settings tab. Functions regarding general client settings 
 <br/>
 
 # Credits
-Programming, GUI Design: Defect (defect1v3)
+Programming, GUI Design: Defect (defec1iv3)
 
 Quality Assurance Testers: none yet!
 
