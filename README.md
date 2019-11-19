@@ -48,7 +48,7 @@ Image of the pre-API key phase. This is the screen shown before a user supplies 
   <img src="https://github.com/defec1iv3/FullTime-Manager/blob/master/Screenshots/ss4.PNG" width="400" height="250"></img>
 </p>
 
-Image of the client's Server Tab--first page. Functions oriented around server control are located here.
+Image of the client's Server Tab--first page. Functions oriented around server control and information are located here.
 <p align="center">
   <img src="https://github.com/defec1iv3/FullTime-Manager/blob/master/Screenshots/ss0.PNG" width="400" height="250"></img>
 </p>
