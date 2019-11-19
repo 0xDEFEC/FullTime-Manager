@@ -1,12 +1,3 @@
-/*
-
-	configuration.h : This header file handles any process related to information needed to request data from the FTH API.
-					  For example, on startup, if an API key is not detected, this file will handle file creation,
-					  saving of the file, and parsing of the key from siad file. If a key is detected, it will handle 
-					  passing that key to any functions that need it.
-
-*/
-
 #define KEYFILEPATH "Data/key.txt"
 #define IDFILEPATH "Data/serverid.txt"
 #define IPFILEPATH "Data/serverip.txt"
