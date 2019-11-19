@@ -10,7 +10,7 @@ Handles checking if a given keyFile exists or not. If not, creates one.
 */
 int configuration::keyFileCheck() {
 	if (File::Exists(KEYFILEPATH)) {
-		if (FileInfo(KEYFILEPATH).Length == 0) {
+		if (FileInfo(KEYFILEPATH).Length == 0 || FileInfo(KEYFILEPATH).Length == 1) { // due to GitHub's adding of 1 Byte to empty files
 			return FILE_EMPTY;
 		}
 		return FILE_OK;
@@ -54,7 +54,7 @@ void configuration::removeServerIPs() {
 
 void configuration::printServerIDs() {
 	array<System::String^>^ idList = File::ReadAllLines(IDFILEPATH);
-	if (idList->Length == 0) {
+	if (idList->Length == 0 || idList->Length == 1) {
 		MessageBox::Show("No Server IDs found. Add them in the <Settings> Tab!", "Notice");
 	}
 	else {
@@ -68,7 +68,7 @@ void configuration::printServerIDs() {
 
 void configuration::printServerIPs() {
 	array<System::String^>^ ipList = File::ReadAllLines(IPFILEPATH);
-	if (ipList->Length == 0) {
+	if (ipList->Length == 0 || ipList->Length == 1) {
 		MessageBox::Show("No IP Addresses found. Add them in the <Settings> Tab!", "Notice");
 	}
 	else {
