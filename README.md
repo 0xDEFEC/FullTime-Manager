@@ -78,3 +78,10 @@ Quality Assurance Testers: none yet!
 Version: 1.0.0
 
 Notes: I'm colorblind, so if the GUI looks weird to you, well... ( ͡ಠ ͜ʖ ͡ಠ)
+
+<br/>
+
+# TODO
+- Add SSH Implementation - for remote server control and command transit
+- Fine-tune API interaction, maybe even serialize some JSON requests
+- Improve FTH API documentation, as some functions are VERY misdocumented.
