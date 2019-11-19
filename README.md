@@ -67,3 +67,10 @@ Image of the client's Settings tab. Functions regarding general client settings 
 <p align="center">
   <img src="https://github.com/defec1iv3/FullTime-Manager/blob/master/Screenshots/ss3.PNG" width="400" height="250"></img>
 </p>
+
+<br/>
+
+# Credits
+Programming, GUI Design: Defect (defect1v3)
+Quality Assurance Testers: none yet!
+Version: 1.0.0
