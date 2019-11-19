@@ -84,4 +84,4 @@ Notes: I'm colorblind, so if the GUI looks weird to you, well... ( ͡ಠ ͜ʖ ͡
 # TODO
 - Add SSH Implementation - for remote server control and command transit
 - Fine-tune API interaction, maybe even serialize some JSON requests
-- Improve FTH API documentation, as some functions are VERY misdocumented.
+- Improve FTH API documentation, as some functions are poorly documented.
