@@ -5934,6 +5934,7 @@ namespace FullTimeManager {
 			}
 			else {
 				File::WriteAllText(KEYFILEPATH, this->apiKeyInputField->Text);
+				configuration::getAPIKey(apiKey);
 				deinitApiKeyGUI();
 			}
 		}
