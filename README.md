@@ -53,17 +53,17 @@ Image of the client's Server Tab--first page. Functions oriented around server c
   <img src="https://github.com/defec1iv3/FullTime-Manager/blob/master/Screenshots/ss0.PNG" width="400" height="250"></img>
 </p>
 
-
+Image of the client's Firewall Tab. Functions regarding generic firewall data retrieval are located here. Not many functions, but useful nonetheless. Might eventually relocate some Firewall functions found in the Server Tab to here instead.
 <p align="center">
   <img src="https://github.com/defec1iv3/FullTime-Manager/blob/master/Screenshots/ss1.PNG" width="400" height="250"></img>
 </p>
 
-
+Image of the client's Billing Tab. Functions regarding billing-oriented information are located here. 
 <p align="center">
   <img src="https://github.com/defec1iv3/FullTime-Manager/blob/master/Screenshots/ss2.PNG" width="400" height="250"></img>
 </p>
 
-
+Image of the client's Settings tab. Functions regarding general client settings are here, such as the ability to refresh an API key.
 <p align="center">
   <img src="https://github.com/defec1iv3/FullTime-Manager/blob/master/Screenshots/ss3.PNG" width="400" height="250"></img>
 </p>
