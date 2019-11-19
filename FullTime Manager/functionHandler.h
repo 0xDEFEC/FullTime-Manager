@@ -1,7 +1,7 @@
 // enum holding billing-oriented values
 enum FTH_BILLING_REQUESTS { // increment each enum by ten to avoid collision
 	BILLING_INFO_REQUEST,                   // [GET]    api.fulltimehosting.net/me - gets account info - DONE
-	BILLING_SETINFO_REQUEST,		        // [PUT]    api.fulltimehosting.net/me - sets account info - DONE - NEEDS TESTING
+	BILLING_SETINFO_REQUEST,		// [PUT]    api.fulltimehosting.net/me - sets account info - DONE - NEEDS TESTING
 												// PARAMS:
 													// [firstname]   : string
 													// [lastname]    : string
@@ -14,12 +14,12 @@ enum FTH_BILLING_REQUESTS { // increment each enum by ten to avoid collision
 													// [email]       : string
 													// [password2]   : string
 													// [confirmpass] : string
-	BILLING_INVOICEINFO_REQUEST,			// [GET]    api.fulltimehosting.net/me/invoice/[invoiceID] - gets info of ticket based on ID - DONE
+	BILLING_INVOICEINFO_REQUEST,		// [GET]    api.fulltimehosting.net/me/invoice/[invoiceID] - gets info of ticket based on ID - DONE
 												// PARAMS:
 													// [invoiceID] : integer ($int64)
-	BILLING_INVOICES_REQUEST,				// [GET]    api.fulltimehosting.net/me/invoice - gets invoices - DONE
-	BILLING_SERVICES_REQUEST,			    // [GET]    api.fulltimehosting.net/server - get active services - DONE
-	BILLING_GETPRODUCTS_REQUEST,		    // [GET]    api.fulltimehosting.net/products - get available products - DONE
+	BILLING_INVOICES_REQUEST,		// [GET]    api.fulltimehosting.net/me/invoice - gets invoices - DONE
+	BILLING_SERVICES_REQUEST,		// [GET]    api.fulltimehosting.net/server - get active services - DONE
+	BILLING_GETPRODUCTS_REQUEST,		// [GET]    api.fulltimehosting.net/products - get available products - DONE
 	BILLING_GETTICKETS_REQUEST,             // [GET]    api.fulltimehosting.net/me/ticket - get tickets - DONE
 	BILLING_SENDTICKET_REQUEST,             // [POST]   api.fulltimehosting.net/me/ticket - open ticket - DONE - NEEDS TESTING
 												// PARAMS:
@@ -27,17 +27,17 @@ enum FTH_BILLING_REQUESTS { // increment each enum by ten to avoid collision
 													// [priority] : string
 													// [deptID]   : string
 													// [message]  : string
-	BILLING_GETTICKET_REQUEST,				// [GET]    api.fulltimehosting.net/me/ticket/[ticketID] - get ticket by ID - DONE
+	BILLING_GETTICKET_REQUEST,		// [GET]    api.fulltimehosting.net/me/ticket/[ticketID] - get ticket by ID - DONE
 												// PARAMS:
 													// [ticketID] : integer ($int64)
-	BILLING_REPLYTICKET_REQUEST,			// [PUT]    api.fulltimehosting.net/me/ticket/[ticketID] - reply to ticket ID - DONE - NEEDS TESTING
+	BILLING_REPLYTICKET_REQUEST,		// [PUT]    api.fulltimehosting.net/me/ticket/[ticketID] - reply to ticket ID - DONE - NEEDS TESTING
 												// PARAMS:
 													// [ticketID] : integer ($int64)
 													// [message]  : string
-	BILLING_CLOSETICKET_REQUEST,			// [POST]   api.fulltimehosting.net/me/ticket/[ticketID]/close - close ticket by ID - DONE
+	BILLING_CLOSETICKET_REQUEST,		// [POST]   api.fulltimehosting.net/me/ticket/[ticketID]/close - close ticket by ID - DONE
 												// PARAMS:
 													// [ticketID] : integer ($int64)
-	BILLING_PROMOINFO_REQUEST				// [GET]    api.fulltimehosting.net/order/promotion/[code] - gets info on supplied promo code - DONE
+	BILLING_PROMOINFO_REQUEST		// [GET]    api.fulltimehosting.net/order/promotion/[code] - gets info on supplied promo code - DONE
 												// PARAMS:
 													// [code] : string
 };
