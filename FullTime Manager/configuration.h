@@ -7,9 +7,9 @@
 
 */
 
-#define KEYFILEPATH "../../../FullTime Manager/FullTime Manager/Data/key.txt"
-#define IDFILEPATH "../../../FullTime Manager/FullTime Manager/Data/serverid.txt"
-#define IPFILEPATH "../../../FullTime Manager/FullTime Manager/Data/serverip.txt"
+#define KEYFILEPATH "../../FullTime Manager/Data/key.txt"
+#define IDFILEPATH "../../FullTime Manager/Data/serverid.txt"
+#define IPFILEPATH "../../FullTime Manager/Data/serverip.txt"
 
 using namespace System;
 using namespace System::IO;
