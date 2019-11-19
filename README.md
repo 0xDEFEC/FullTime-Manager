@@ -43,18 +43,27 @@ Some functions that can be found within the client are as follows:
 <br/>
 
 # Screenshots
+Image of the pre-API key phase. This is the screen shown before a user supplies their FTH API key. Access to all other sections of the application are blocked until an API key--valid or not--is supplied.
 <p align="center">
   <img src="https://github.com/defec1iv3/FullTime-Manager/blob/master/Screenshots/ss4.PNG" width="400" height="250"></img>
 </p>
+
+
 <p align="center">
   <img src="https://github.com/defec1iv3/FullTime-Manager/blob/master/Screenshots/ss0.PNG" width="400" height="250"></img>
 </p>
+
+
 <p align="center">
   <img src="https://github.com/defec1iv3/FullTime-Manager/blob/master/Screenshots/ss1.PNG" width="400" height="250"></img>
 </p>
+
+
 <p align="center">
   <img src="https://github.com/defec1iv3/FullTime-Manager/blob/master/Screenshots/ss2.PNG" width="400" height="250"></img>
 </p>
+
+
 <p align="center">
   <img src="https://github.com/defec1iv3/FullTime-Manager/blob/master/Screenshots/ss3.PNG" width="400" height="250"></img>
 </p>
